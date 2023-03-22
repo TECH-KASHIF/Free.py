@@ -1311,7 +1311,7 @@ def Subscraption():
 	key1=open('/data/data/com.termux/files/usr/bin/.mrKASHIF -cov', 'r').read()
 	clear()
 	print(logo)
-	r1=requests.get("https://github.com/TECH-KASHIF/APPROVAL/blob/main/Ap.txt").text
+	r1=requests.get("https://github.com/TECH-KASHIF/Free.py/blob/main/Apv.txt").text
 	if key1 in r1:
 		os.system('clear')
 		print(logo)
